@@ -1,7 +1,11 @@
 # Environment
 .env
 homelab/.env
+**/.env
 **/.env.local
+
+# Vercel
+.vercel
 
 # macOS
 .DS_Store
